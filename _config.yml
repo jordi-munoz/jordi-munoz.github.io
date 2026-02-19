@@ -19,18 +19,18 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jordi-munoz/jordi-munoz.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
+#               If a field is blank the icon and link will not appear, otherwise it will be shown.        
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jordi Muñoz"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "she/her"
   bio              : "Political Scientist"
   location         : "Barcelona, Catalonia"
   employer         : "Universitat de Barcelona"
   uri              : "https://www.jordimunoz.cat"
-  email            : "jordi.munoz@ub.edu" 
+  email            : "jordi.munoz@ub.edu"
 
   # Academic websites
   academia         : # URL
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-2078-4047"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : 
+  pubmed           :
   researchgate     : # URL
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=24512548200"
   zotero           : # URL
@@ -52,8 +52,8 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "jordi-munoz"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           : # Username
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
   artstation       : # Username
@@ -87,7 +87,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
 
@@ -123,7 +123,7 @@ staticman:
     date:
       type               : "date"
       options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds" 
 atom_feed:
   hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
