@@ -23,7 +23,7 @@ repository               : "jordi-munoz/jordi-munoz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "images/profile.jpeg"
   name             : "Jordi Muñoz"
   pronouns         : # example: "she/her"
   bio              : "Political Scientist"
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/jordi-munoz-ab03a06/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -74,20 +74,20 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "jordimunozm"
   vine             : # Username
   weibo            : # Username
-  wikipedia        : # Username
+  wikipedia        : "https://ca.wikipedia.org/wiki/Jordi_Mu%C3%B1oz_i_Mendoza"
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
   manuscripts:
     title: 'Journal Articles'
+  books:
+    title: 'Books'
   conferences:
     title: 'Conference Papers'
 
