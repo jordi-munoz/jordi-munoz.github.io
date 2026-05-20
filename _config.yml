@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "https://bsky.app/profile/jordimunoz.bsky.social" # Replace this with you Bluesky username
+  bluesky          : "jordimunoz.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/jordi-munoz-ab03a06/"
+  linkedin         : "jordi-munoz-ab03a06"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -77,7 +77,7 @@ author:
   twitter          : "jordimunozm"
   vine             : # Username
   weibo            : # Username
-  wikipedia        : "https://ca.wikipedia.org/wiki/Jordi_Mu%C3%B1oz_i_Mendoza"
+  wikipedia        : "Jordi_Mu%C3%B1oz_i_Mendoza"
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
@@ -246,7 +246,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
@@ -262,7 +262,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _publications
   - scope:
@@ -271,7 +271,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _portfolio
   - scope:
@@ -280,7 +280,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comment: true
   # _talks
   - scope:
@@ -289,7 +289,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
 
 
 # Sass/SCSS
