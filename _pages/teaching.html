@@ -7,6 +7,24 @@ author_profile: true
 
 {% include base_path %}
 
+<h2>Courses</h2>
+
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+<h2 id="phd-supervision">PhD supervision</h2>
+
+<ul class="phd-list">
+  {% for student in site.data.phd_students %}
+  <li class="phd-list__item">
+    <span class="phd-list__name">{% if student.url %}<a href="{{ student.url }}">{{ student.name }}</a>{% else %}{{ student.name }}{% endif %}</span>
+    <span class="phd-list__uni">{{ student.university }}</span>
+    {% if student.year %}
+      <span class="phd-list__year">{{ student.year }}</span>
+    {% else %}
+      <span class="phd-list__year phd-list__year--current">In progress</span>
+    {% endif %}
+  </li>
+  {% endfor %}
+</ul>

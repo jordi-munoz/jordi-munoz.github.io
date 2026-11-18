@@ -1,0 +1,34 @@
+# PhD students supervised (shown on the Teaching page, newest first).
+# year: year the PhD was defended; leave empty while in progress.
+- name: "Joel Ardiaca"
+  university: "Universitat de Barcelona"
+  year:
+  url: "https://joelardiaca.github.io/"
+- name: "Abhinav Khemka"
+  university: "Universitat de Barcelona"
+  year: 2025
+  url: "https://abhinavkhemka.com/"
+- name: "Sergi Ferrer"
+  university: "Universitat de Barcelona"
+  year: 2022
+  url: "https://www.sergiferrer.org/"
+- name: "Pau Vall-Prat"
+  university: "Universitat de Barcelona"
+  year: 2022
+  url: "https://pauvallprat.com/"
+- name: "Sofia Breitenstein"
+  university: "Universitat Autònoma de Barcelona"
+  year: 2020
+  url: "https://sofiabrei.wixsite.com/home"
+- name: "Jordi Garcia Muniesa"
+  university: "Universitat Autònoma de Barcelona"
+  year: 2019
+  url: "https://es.linkedin.com/in/jordi-garcia-muniesa-6728a839"
+- name: "Roberto Pannico"
+  university: "Universitat Autònoma de Barcelona"
+  year: 2017
+  url: "https://robertopannico.weebly.com/"
+- name: "Ramon Canal Oliveras"
+  university: "Universitat Autònoma de Barcelona"
+  year: 2017
+  url: "https://es.linkedin.com/in/ramon-canal-oliveras-1a30a31a"

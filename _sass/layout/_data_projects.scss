@@ -88,3 +88,51 @@
     transition: transform 0.15s ease-in-out;
   }
 }
+
+/* ==========================================================================
+   PhD supervision list (Teaching page)
+   ========================================================================== */
+
+.phd-list {
+  margin: 1em 0 2em;
+  padding: 0;
+  list-style: none;
+}
+
+.phd-list__item {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.25em 0.75em;
+  margin: 0;
+  padding: 0.6em 0;
+  border-bottom: 1px solid var(--global-border-color);
+
+  &:first-child {
+    border-top: 1px solid var(--global-border-color);
+  }
+}
+
+.phd-list__name {
+  flex: 1 1 12em;
+  font-weight: bold;
+}
+
+.phd-list__uni {
+  flex: 1 1 14em;
+  font-size: 0.85em;
+  color: var(--global-text-color-light);
+}
+
+.phd-list__year {
+  flex: 0 0 auto;
+  min-width: 6.5em;
+  font-size: 0.8em;
+  text-align: right;
+  color: var(--global-text-color-light);
+}
+
+.phd-list__year--current {
+  font-weight: bold;
+  color: var(--global-base-color);
+}
