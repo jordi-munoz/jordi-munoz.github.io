@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Associate Professor of Political Science at the University of Barcelona, ICREA Academia Fellow, and member of the Institutions and Political Economy Research Group. I hold a PhD in Political Science (Universitat Pompeu Fabra, 2009). Between 2021 and 2024, I served as director of the Center for Public Opinion Studies of the Catalan government.
+Associate Professor of Political Science at the University of Barcelona, ICREA Academia Fellow, and member of the Institutions and Political Economy Research Center. I am also the PI of the C-BIC research group, and currently serve as chair of the Political Science Departmental Section of the UB. I hold a PhD in Political Science (Universitat Pompeu Fabra, 2009). 
+
+Between 2021 and 2024, I served as director of the Center for Public Opinion Studies of the Catalan government.
 
 I teach research methods, political behavior and comparative politics. My fields of research include comparative political behavior and historical political economy. I have published historical research on the political incorporation of women and workers upon enfranchisement and democratization, as well as experimental work on the political consequences of corruption, terrorism, political violence, immigration or secessionism, among others.
 
