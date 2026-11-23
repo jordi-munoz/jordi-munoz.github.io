@@ -7,7 +7,7 @@ locale: ca
 
 <p style="text-align: right; font-size: 0.85em;"><a href="/" lang="en">English</a></p>
 
-Soc professor agregat de Ciència Política a la Universitat de Barcelona, investigador ICREA Acadèmia i membre del grup de recerca C-BIC de l'Institutions and Political Economy Research Center. Actualment soc el cap de la Secció Departamental de Ciència Política de la UB. Soc doctor en Ciència Política (Universitat Pompeu Fabra, 2009).
+Soc professor agregat de Ciència Política a la Universitat de Barcelona, investigador ICREA Acadèmia i membre del grup de recerca C-BIC del Centre de Recerca en Institucions, Política i Economia (IPERC). Actualment soc el cap de la Secció Departamental de Ciència Política de la UB. Soc doctor en Ciència Política (Universitat Pompeu Fabra, 2009).
 
 Entre el 2021 i el 2024 vaig ser director del Centre d'Estudis d'Opinió de la Generalitat de Catalunya.
 
