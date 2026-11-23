@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<p style="text-align: right; font-size: 0.85em;"><a href="/ca/" lang="ca">Català</a></p>
+
 I am Associate Professor of Political Science at the University of Barcelona, ICREA Academia Fellow, and member of the C-BIC research group at the Institutions and Political Economy Research Center. I currently serve as chair of the Political Science Departmental Section of the UB. I hold a PhD in Political Science (Universitat Pompeu Fabra, 2009). 
 
 Between 2021 and 2024, I served as director of the Center for Public Opinion Studies of the Catalan government.
